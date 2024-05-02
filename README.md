@@ -6,6 +6,8 @@
 
 ---
 
+### :computer: Skills :
+
 <div align="center">
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="100" height="100"/>&nbsp;
