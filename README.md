@@ -16,8 +16,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="100" height="100"/>&nbsp;
   </div>
 
-&nbsp;
-
   <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="100" height="100"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original-wordmark.svg" title="JUnit" alt="JUnit" width="100" height="100"/>&nbsp;
