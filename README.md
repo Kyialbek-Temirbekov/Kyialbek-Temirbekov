@@ -4,15 +4,15 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-👋 Hey there! I'm a Java backend developer passionate about crafting robust and scalable software solutions. Whether it's architecting complex systems or troubleshooting intricate bugs, I enjoy the challenge of solving problems and delivering high-quality software that meets user needs. Collaboration is key, and I take pride in working closely with cross-functional teams to turn ideas into reality.
+👋 Hey there! I'm a Java backend developer passionate about crafting robust and scalable software solutions. Whether it's architecting complex systems or troubleshooting intricate bugs, I enjoy the challenge of solving problems and delivering high-quality software that meets user needs.
 
 💼 Experience
 
-I have extensive experience in developing backend systems using Java technologies such as Spring Framework (Boot, MVC, Data, Security, Cloud) and Hibernate for ORM. My projects often involve designing RESTful APIs, integrating with databases, microservices architecture, and ensuring high performance and reliability. Additionally, I am proficient in implementing comprehensive testing strategies, leveraging frameworks like JUnit, Mockito, and AssertJ. I also have experience with container orchestration platforms such as Kubernetes and Docker, allowing for efficient deployment and scaling of applications in distributed environments.
+I have extensive experience in developing backend systems using Java technologies such as Spring Framework (Boot, MVC, Data, Security, Cloud) and Hibernate for ORM. My projects often involve designing RESTful APIs, integrating with databases, microservices architecture, and ensuring high performance and reliability. Additionally, I am proficient in implementing testing, leveraging frameworks like JUnit, Mockito, and AssertJ. I also have experience with container orchestration platforms such as Kubernetes and Docker, allowing for efficient deployment and scaling of applications in distributed environments.
 
 🌱 Learning
 
-Outside of coding, you'll find me exploring the latest tech trends, contributing to open-source projects, and sharing my knowledge through writing and speaking engagements. Let's connect and build something amazing together!
+Outside of coding, you'll find me exploring the latest tech trends. I'm always eager to stay updated with the latest trends and technologies in Java ecosystem. 
 
 📫 Let's Connect
 
