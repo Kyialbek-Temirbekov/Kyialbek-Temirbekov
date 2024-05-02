@@ -6,6 +6,9 @@
 
 ---
 
+### :star2: About Me
+---
+
 ### :computer: Skills :
 
 <div align="center">
